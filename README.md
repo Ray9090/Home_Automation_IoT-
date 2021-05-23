@@ -7,7 +7,7 @@ IoT project: Home Automation via Telegram app
 # Hardware
 ![2](https://user-images.githubusercontent.com/58274552/119275695-caa44e00-bc16-11eb-9421-98a722d41ddc.PNG)
 
-#Simulation
+# Simulation
 ![3](https://user-images.githubusercontent.com/58274552/119275705-d728a680-bc16-11eb-9097-27399321107e.PNG)
 
 # Youtube Link
